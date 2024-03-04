@@ -16,6 +16,5 @@ Ensure Python is installed.
 
 
 **Execution:**
-
 Run the keylogger script:
 python keylogger.py
